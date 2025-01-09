@@ -1,36 +1,42 @@
 ---
 icon: puzzle-piece
-description: >-
-  Install an integration in a single space, or all the spaces in your
-  organization
+description: "How to install an integration in a single space, or all the spaces in your organization —\_and manage its settings"
 ---
 
 # Install and manage integrations
 
-There are [many different integrations](https://app.gitbook.com/integrations) available in GitBook. From interactive content blocks to advanced analytics tools, your favorite tools are only a click away from integrating with GitBook.
+{% embed url="https://www.youtube.com/watch?v=W6TA9Lftd6A" %}
 
 You can install an integration in a single space, multiple spaces, or all the spaces across your organization.
 
 If you install an integration in a single space, it will only work in that specific space. By installing an integration in multiple spaces, you’ll be able to perform actions across all those spaces.
 
-<figure><img src="../.gitbook/assets/integrations-install (1).svg" alt=""><figcaption><p>Install an integration into your organization, space or site.</p></figcaption></figure>
-
 ### Install an integration in your organization
 
-#### 1. Open the integrations menu
+#### 1. Open the Integrations menu
 
-Before enabling an integration into a space or site, you'll need to install it in your organization. Start by clicking **Integrations** section in the sidebar on the left.
+Before enabling an integration into a space or site, you'll need to install it in your organization. Start by clicking **Integrations** in the sidebar on the left.
+
+<figure><img src="../.gitbook/assets/integrations-home (1).png" alt=""><figcaption><p>Integrations tab</p></figcaption></figure>
 
 #### 2. Select the integration and install
 
-Next, click on the integration you want to install. Certain integrations work can be installed for your spaces, and others for your published documentation.
+Next, click on the integration you want to install on the space (e.g Plausible).
 
-On this screen you can select the areas you would like to install your integration in.
+This will open up the integration’s installation screen. Click **Install** to connect it to your organization.
 
-<figure><img src="../.gitbook/assets/integrations-install-options.svg" alt=""><figcaption><p>Choose an area to install an integration in.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/integrations-install.png" alt=""><figcaption><p>Integration installation page</p></figcaption></figure>
 
-#### 3. Configure your integration
+From here, the integration will be available to enable in any space or site in your organization.
 
-You can now use your integration. Certain integrations may require extra configuration. If so, you’ll see a message asking you to configure your integration in your space or site.
+#### 3. Enable and configure integration
 
-View the integration’s instructions to learn more about configuring it for your team.
+The installed installed will now be available in your organization, but you need to enable it on a per-space basis, and you may also need to configure it, depending on the integration
+
+Firstly, open the integration’s main screen by selecting it on the **Integrations** panel in the app and opening the **Spaces tab**. From here, you can choose which space(s) to enable the integration for.
+
+<figure><img src="../.gitbook/assets/integrations-enable.png" alt=""><figcaption><p>Enable an integration for a space</p></figcaption></figure>
+
+{% hint style="info" %}
+Certain integrations may require extra configuration. If so, head to the **Organization settings** tab to complete your integration’s configuration.
+{% endhint %}

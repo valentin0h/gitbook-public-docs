@@ -1,15 +1,19 @@
 ---
 icon: xmark
-description: Cancel your subscription.
 ---
 
 # Subscription cancellations
 
-If you’re thinking about cancelling a plan because you’re running into any issues while using GitBook, please [contact](https://docs.gitbook.com/help-center/support/how-do-i-contact-support) our support team! If there’s anything we can solve, we’re here to help.
+If you’re thinking about cancelling a plan because you’re running into any issues while using GitBook, please [contact the support team](../help-and-faq/faq/support.md) first! We’d love to help you.
 
-Here’s how to cancel your plan:
+{% hint style="info" %}
+**Permissions**\
+Only administrators can access an organization’s billing settings to cancel a plan.
+{% endhint %}
 
-1. Go to the organization’s settings page. You can click on the settings <picture><source srcset="../.gitbook/assets/settings - dark.svg" media="(prefers-color-scheme: dark)"><img src="../.gitbook/assets/settings.svg" alt=""></picture> icon at the bottom of the sidebar and then click on **\[organization name] settings** to get there.
+If your mind is made up, here’s how to cancel your plan:
+
+1. Go to the organization’s settings page. You can click on the settings <img src="../.gitbook/assets/settings-light.png" alt="" data-size="line"> icon at the bottom of the sidebar and then click on **\[organization name] settings** to get there.
 2. Click on the **billing** tab. This will take you to a billing page hosted on Stripe, our payment processor.
 3. Click the **cancel plan** button.
 4. On the following page, confirm by clicking a second button labelled **cancel plan**.
@@ -18,8 +22,8 @@ Here’s how to cancel your plan:
 Once your plan has been cancelled, as per our [billing policy](plans/billing-policy.md), it will remain active until the end of your current billing period. Your subscription will no longer renew, and the plan’s cancellation will take full effect at the end of that billing period.
 {% endhint %}
 
-### Change your mind?
+### Changed your mind? No problem!
 
 After cancelling and before the end of your current billing period, you have the option to renew your plan! Just click the **renew plan** button shown below (and again on the next page to confirm) and your subscription will once again renew automatically.
 
-After this, if you’d like to use GitBook again on a paid plan, you can purchase a new plan.
+Or, if you change your mind _after_ the end of the billing period, you can purchase a new plan.

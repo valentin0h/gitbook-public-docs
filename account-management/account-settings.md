@@ -1,13 +1,19 @@
 ---
-icon: user
 description: View and manage the settings for your personal GitBook account.
+icon: user
 ---
 
 # Personal settings
 
 You can manage your login details, third-party login options, GitBook subdomain, interface theme, notification, integrations and API access tokens.
 
-<figure><img src="../.gitbook/assets/account-settings-personal.svg" alt=""><figcaption><p>Your personal settings page.</p></figcaption></figure>
+{% hint style="info" %}
+**Permissions**
+
+All members can access and manage their personal account settings.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/personal-settings.png" alt=""><figcaption><p>Personal Settings page.</p></figcaption></figure>
 
 ### How to access your personal account settings
 
@@ -64,7 +70,7 @@ GitBook can provide you with two types of [notifications](../collaboration/notif
 
 <summary>Organization</summary>
 
-Your personal account could be a member of any number of organizations, and this tab can be considered a shortcut to the [organization settings page](organization-settings.md) for each organization. You can also create a new organization from this page.
+Your personal account could be a member of any number of organizations, and this tab can be considered a shortcut to the [organization settings page](organization-management.md) for each organization. You can also create a new organization from this page.
 
 </details>
 
